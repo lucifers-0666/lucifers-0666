@@ -20,25 +20,39 @@
 
 ## 🧑‍💻 About Me
 
-```kotlin
-object Lucifer {
-    val name       = "lucifers-0666"
-    val role       = "Full-Stack Android Developer"
-    val location   = "Ahmedabad, Gujarat, IN 🇮🇳"
-    val languages  = listOf("Kotlin", "Java", "Python", "JavaScript", "C")
-    val stack      = listOf("Firebase", "Jetpack Compose", "AR Core", "Razorpay", "GCP")
-    val passion    = "Building impactful Android apps with AR & AI"
-    val investing  = "Active stock market investor on Groww 📈"
-    val motto      = "Make it work, make it right, make it fast"
-}
-```
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- 🔭 Currently building **CraftLand** — AR Furniture Commerce App with Kotlin + Firebase
-- 🌱 Exploring **AI/ML integration** in Android & Cloud Functions
-- ⚡ Integrated **Razorpay & Cashfree** payment gateways in production apps
-- 📊 Active **stock market investor** tracking portfolios on Groww
-- 🧠 Always learning — Jetpack Compose, Coroutines, 3D/AR Visualization
-- 💬 Ask me about **Android Dev, Firebase, AR, Payment APIs**
+### 🚀 Who Am I?
+
+- 📍 **Location:** Ahmedabad, Gujarat, India 🇮🇳
+- 💼 **Role:** Full-Stack Android Developer
+- 🔭 **Building:** [CraftLand](https://github.com/lucifers-0666/CraftLand-App-v1) — AR Furniture Commerce App
+- 📊 **Investing:** Stock market on Groww 📈
+- 💬 **Ask me about:** Android, Firebase, AR, Payment APIs
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🎯 What I Do
+
+- 📱 Android apps with **Kotlin + Jetpack Compose**
+- 🔥 Backend with **Firebase & Cloud Functions**
+- 👁️ AR/3D with **AR Core & Sceneview**
+- ⚡ Payments via **Razorpay & Cashfree**
+- 🧠 Learning **AI/ML** for mobile apps
+
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Android%20Development-ff4444?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Loves-AR%20%2F%203D%20Tech-ff4444?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Based%20in-Ahmedabad%20IN-ff4444?style=flat-square&labelColor=0d0d0d" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaboration-ff4444?style=flat-square&labelColor=0d0d0d" />
+</p>
 
 ---
 
