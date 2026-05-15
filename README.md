@@ -91,11 +91,8 @@ object Lucifer {
 ## 🧠 Coding Platforms
 
 <p align="center">
-  <img width="49%" src="https://leetcard.jacoblin.cool/lucifers-0666?theme=dark&font=Fira+Code&ext=heatmap" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucifers0666&theme=github_dark&hide_border=true&title_color=ff4444&text_color=ffffff&bg_color=0d0d0d&layout=compact" />
+  <img src="https://leetcard.jacoblin.cool/24rSzptYbG?theme=dark&font=Fira+Code&ext=heatmap" />
 </p>
-
-> 💡 **Note:** Update the LeetCode username above (`lucifers-0666`) to your actual LeetCode handle if different.
 
 ---
 
@@ -137,6 +134,10 @@ object Lucifer {
   &nbsp;
   <a href="mailto:zaidamreliya002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4444" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/24rSzptYbG/">
+    <img src="https://img.shields.io/badge/LeetCode-24rSzptYbG-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=ff4444" />
   </a>
 </p>
 
