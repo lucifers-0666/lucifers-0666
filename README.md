@@ -29,7 +29,6 @@
 - 📍 **Location:** Ahmedabad, Gujarat, India 🇮🇳
 - 💼 **Role:** Full-Stack Android Developer
 - 🔭 **Building:** [CraftLand](https://github.com/lucifers-0666/CraftLand-App-v1) — AR Furniture Commerce App
-- 📊 **Investing:** Stock market on Groww 📈
 - 💬 **Ask me about:** Android, Firebase, AR, Payment APIs
 
     </td>
