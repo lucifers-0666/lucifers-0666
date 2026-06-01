@@ -137,16 +137,26 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucifers-0666&theme=github_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucifers-0666&theme=github_dark" alt="Top Languages by Repo" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucifers-0666&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifers-0666&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=lucifers-0666&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=lucifers-0666&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucifers-0666&theme=github_dark" alt="Contribution Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucifers-0666&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/24rSzptYbG?theme=dark&font=Nunito&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/24rSzptYbG/)
 
 </div>
 
@@ -156,13 +166,11 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucifers-0666/lucifers-0666/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucifers-0666/lucifers-0666/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/lucifers-0666/lucifers-0666/output/github-snake-dark.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/lucifers-0666/lucifers-0666/output/github-snake-dark.svg)
 
 </div>
+
+> ⚡ If snake doesn't appear — go to [Actions](https://github.com/lucifers-0666/lucifers-0666/actions) → **Generate Snake** → **Run workflow**
 
 ---
 
