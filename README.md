@@ -137,16 +137,27 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucifers-0666&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifers-0666&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucifers-0666&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucifers-0666&theme=tokyonight" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=lucifers-0666&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucifers-0666&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucifers-0666&theme=tokyonight&utcOffset=5.5" />
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lucifers-0666&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucifers-0666&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucifers-0666&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/lucifers-0666)
 
 </div>
 
@@ -159,18 +170,6 @@ I'm actively building my portfolio and looking for my **first professional role*
 [![LeetCode Stats](https://leetcard.jacoblin.cool/24rSzptYbG?theme=dark&font=Nunito&ext=heatmap&border=0&radius=8)](https://leetcode.com/u/24rSzptYbG/)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/lucifers-0666/lucifers-0666/output/github-snake-dark.svg)
-
-</div>
-
-> ⚡ If snake doesn't appear — go to [Actions](https://github.com/lucifers-0666/lucifers-0666/actions) → **Generate Snake** → **Run workflow**
 
 ---
 
