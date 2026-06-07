@@ -4,10 +4,10 @@
 
 **Android & Full-Stack Developer** · Building products people actually use — from AR furniture apps to AI-powered fintech.
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucifers--0666-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucifers-0666)
+[![GitHub](https://img.shields.io/badge/GitHub-lucifers--0666-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucifers-0666)
 [![LeetCode](https://img.shields.io/badge/LeetCode-24rSzptYbG-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/24rSzptYbG/)
-[![Gmail](https://img.shields.io/badge/Email-zaidamreliya002-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidamreliya002@gmail.com)
-[![Location](https://img.shields.io/badge/Ahmedabad-India-cc0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-zaidamreliya002-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidamreliya002@gmail.com)
+[![Location](https://img.shields.io/badge/Ahmedabad-India-a9fef7?style=for-the-badge&logo=googlemaps&logoColor=black)](#)
 
 </div>
 
@@ -137,17 +137,17 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucifers-0666&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucifers-0666&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucifers-0666&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucifers-0666&theme=radical" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucifers-0666&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucifers-0666&theme=tokyonight&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucifers-0666&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucifers-0666&theme=radical&utcOffset=5.5" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucifers-0666&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucifers-0666&theme=radical" />
 
 </div>
 
@@ -157,7 +157,7 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucifers-0666&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/lucifers-0666)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucifers-0666&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/lucifers-0666)
 
 </div>
 
@@ -175,8 +175,8 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 <div align="center">
 
-*Open to Android, fintech, or full-stack roles — let's build something real.*
+*Open to Android, fintech, or full-stack roles — let’s build something real.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=lucifers-0666&style=flat-square&color=cc0000&label=profile+views)](https://github.com/lucifers-0666)
+[![Profile Views](https://komarev.com/ghpvc/?username=lucifers-0666&style=flat-square&color=fe428e&label=profile+views)](https://github.com/lucifers-0666)
 
 </div>
