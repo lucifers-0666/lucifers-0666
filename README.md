@@ -1,139 +1,70 @@
 <div align="center">
 
-# Hey, I'm Zaid 👋
+# Zaid Amreliya
 
-**Android & Full-Stack Developer** · Building products people actually use — from AR furniture apps to AI-powered fintech.
+**Android & Full-Stack Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-lucifers--0666-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucifers-0666)
-[![LeetCode](https://img.shields.io/badge/LeetCode-24rSzptYbG-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/24rSzptYbG/)
-[![Gmail](https://img.shields.io/badge/Email-zaidamreliya002-fe428e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidamreliya002@gmail.com)
-[![Location](https://img.shields.io/badge/Ahmedabad-India-a9fef7?style=for-the-badge&logo=googlemaps&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-lucifers--0666-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/lucifers-0666)
+[![LeetCode](https://img.shields.io/badge/LeetCode-24rSzptYbG-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/24rSzptYbG/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-fe428e?style=flat-square&logo=gmail&logoColor=white)](mailto:zaidamreliya002@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## Projects
 
-I'm an Android and full-stack developer who learns by shipping. I started with Kotlin and Firebase, and have since pushed into Node.js, FastAPI, ARCore, Razorpay, and on-device AI — because real products demand more than tutorials teach.
+**[CraftLand](https://github.com/lucifers-0666/CraftLand-App-v1)** &mdash; Artisan e-commerce marketplace with real-time inventory, Firebase Auth, and role-based access for buyers and sellers.
 
-I'm actively building my portfolio and looking for my **first professional role**.
-
-- 🔨 Currently working on: **WealthOS** — an AI-powered personal finance OS for Indian equities & ETFs with live prices and a RAG-based CFO advisor
-- 📱 Built production-grade Android apps with **Kotlin, Jetpack Compose, ARCore, and Firebase** — real auth, real payments, real sync
-- 💳 Integrated **Razorpay & Cashfree** payment gateways with webhook handling in production projects
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,js,ts,dart,java,html,css" />
-</div>
-
-<br/>
-
-**Android & Mobile**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase" />
-</div>
-
-> Jetpack Compose · ARCore · Sceneview · Material You · Room · WorkManager
-
-<br/>
-
-**Backend & Cloud**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,gcp,firebase" />
-</div>
-
-> Razorpay · Cashfree · Cloudinary · Cloud Functions · REST APIs · JWT
-
-<br/>
-
-**Databases & Tools**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,figma,postman" />
-</div>
-
-> Firestore · Firebase Realtime DB · SQLite
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-## 🚀 Projects
+**[AR Furniture Viewer](https://github.com/lucifers-0666/ARdemofurniture)** &mdash; Place true-to-scale 3D furniture in any room using ARCore plane detection and gesture controls.
 
-### 📱 [CraftLand App – Artisan E-Commerce Platform](https://github.com/lucifers-0666/CraftLand-App-v1)
-> Connecting artisans with buyers through a native Android marketplace
-
-`Kotlin` `Firebase` `Firestore` `Jetpack Compose`
-
-- End-to-end e-commerce flow — product listing, cart, checkout, and real-time order sync
-- Firebase Auth with email/password and Google Sign-In, role-based access for buyers & sellers
-- Real-time inventory updates using Firestore listeners with optimistic UI updates
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=flat-square&logo=google&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
 
 ---
 
-### 🥽 [AR Furniture Viewer](https://github.com/lucifers-0666/ARdemofurniture)
-> Point your phone at any room — place true-to-scale 3D furniture before buying
+**[KHARCHA](https://github.com/lucifers-0666/KHARCHA-Expense-Tracker_APP)** &mdash; Expense tracker with category breakdowns, budget alerts, and offline-first Firestore sync.
 
-`Kotlin` `ARCore` `Sceneview` `Android`
-
-- Plane detection and anchor placement for accurate real-world 3D model positioning
-- Multiple furniture models with dynamic switching, scaling, and rotation gestures
-- Smooth camera session lifecycle management with AR session resume/pause handling
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
-### 💰 [KHARCHA – Expense Tracker](https://github.com/lucifers-0666/KHARCHA-Expense-Tracker_APP)
-> Track every rupee with visual spend breakdown and monthly reports
+**[WealthOS](https://github.com/lucifers-0666/WealthOS)** &mdash; AI personal finance OS for Indian equities with live NSE/BSE feeds and a RAG-based portfolio advisor.
 
-`Flutter` `Dart` `Firebase` `Firestore`
-
-- Category-based expense logging with real-time pie/bar chart breakdowns
-- Monthly budget limits with push alerts when approaching or crossing the threshold
-- Offline-first with Firestore local cache and background sync when reconnected
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AI/ML](https://img.shields.io/badge/RAG_AI-fe428e?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-### 🧠 [WealthOS – AI Personal Finance OS](https://github.com/lucifers-0666/WealthOS)
-> Personal finance OS for Indian equities & ETFs with a live AI CFO advisor
+**[ZenoPay](https://github.com/lucifers-0666/ZenoPay-V1)** &mdash; Multi-provider payment orchestration platform with Razorpay and Cashfree, webhook verification, and order dashboard.
 
-`Python` `FastAPI` `RAG` `AI/ML`
-
-- Live NSE/BSE price feeds with portfolio P&L tracking and sector allocation analysis
-- RAG-based AI advisor answers personal finance questions using your own portfolio data
-- LLM-augmented insights — risk scoring, rebalancing suggestions, and ETF comparisons
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![Cashfree](https://img.shields.io/badge/Cashfree-1A1A2E?style=flat-square&logo=cashfree&logoColor=white)
 
 ---
 
-### 💳 [ZenoPay – Payment Gateway Integration Platform](https://github.com/lucifers-0666/ZenoPay-V1)
-> Multi-provider payment orchestration with Razorpay and Cashfree
+**[Destinova](https://github.com/lucifers-0666/Destinova)** &mdash; Travel discovery platform with curated destination guides, deployed on GitHub Pages.
 
-`Node.js` `EJS` `Razorpay` `Cashfree` `Express`
-
-- Unified checkout interface that routes payments to Razorpay or Cashfree based on config
-- Full webhook verification, signature validation, and idempotent order creation
-- Retry logic, payment failure recovery, and real-time order status dashboard
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-### 🌍 [Destinova – Travel Discovery Platform](https://github.com/lucifers-0666/Destinova)
-> Curated travel destination guides with booking-ready itineraries
-
-`HTML` `CSS` `JavaScript`
-
-- Handcrafted destination cards with editorial photography and trip highlights
-- Responsive layout with CSS Grid and smooth scroll interactions
-- Lightweight, zero-dependency frontend — pure HTML/CSS/JS, deployed on GitHub Pages
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -153,17 +84,17 @@ I'm actively building my portfolio and looking for my **first professional role*
 
 ---
 
-## 🏆 Trophies
+## GitHub Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucifers-0666&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/lucifers-0666)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucifers-0666&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/lucifers-0666)
 
 </div>
 
 ---
 
-## 🧩 LeetCode
+## LeetCode
 
 <div align="center">
 
@@ -174,8 +105,6 @@ I'm actively building my portfolio and looking for my **first professional role*
 ---
 
 <div align="center">
-
-*Open to Android, fintech, or full-stack roles — let’s build something real.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lucifers-0666&style=flat-square&color=fe428e&label=profile+views)](https://github.com/lucifers-0666)
 
