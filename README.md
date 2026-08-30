@@ -1,156 +1,239 @@
-# Zaid Amreliya
+<div align="center">
 
-**Android & Full-Stack Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ZAID%20AMRELIYA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ANDROID%20%26%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18&color=0:0b1020,50:312e81,100:06b6d4" alt="Zaid Amreliya developer header" />
 
-I build practical software products across mobile and web, with a focus on clean interfaces, dependable backend workflows, and useful problem-solving features. My work includes Android applications, full-stack platforms, payment flows, dashboards, and data-driven projects.
+<a href="https://github.com/lucifers-0666"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/24rSzptybG"><img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=%23FFA116" alt="LeetCode" /></a>
+<a href="https://github.com/lucifers-0666?tab=repositories"><img src="https://img.shields.io/badge/Projects-111827?style=for-the-badge&logo=github&logoColor=%2388b4ff" alt="Projects" /></a>
 
-[GitHub](https://github.com/lucifers-0666) · [Projects](https://github.com/lucifers-0666?tab=repositories) · [LeetCode](https://leetcode.com/24rSzptybG)
+<br/>
+<br/>
 
----
+**Building practical software across mobile, web, backend systems, and product-focused experiences.**
 
-## About
-
-I am a BCA student who enjoys turning ideas into working applications and learning how production software is structured. My current focus is Android and full-stack development, especially API-backed applications, authentication flows, database design, and practical product features. I also spend time strengthening data structures and algorithms to improve the way I design and debug software.
-
----
-
-## Engineering Focus
-
-- Mobile applications with Android and Flutter
-- Full-stack web applications with JavaScript, Node.js, and PHP
-- Backend APIs, authentication, and data workflows
-- Databases and backend services such as PostgreSQL, Firebase, and Supabase
-- Payment and order-management workflows
-- Data structures, algorithms, and practical problem solving
+</div>
 
 ---
 
-## Technology Stack
+## ⚡ About Me
 
-**Languages**
+<table>
+<tr>
+<td width="50%">
 
-`Kotlin` `Java` `JavaScript` `Python` `PHP` `Dart`
+### 👨‍💻 Developer
 
-**Frontend / UI**
+Android + Full-Stack developer focused on turning ideas into working software with clean interfaces and dependable backend workflows.
 
-`HTML` `CSS` `JavaScript` `Flutter` `Jetpack Compose`
+</td>
+<td width="50%">
 
-**Backend**
+### 🎓 Learning Mindset
 
-`Node.js` `Express` `PHP` `FastAPI`
+BCA student continuously strengthening software engineering fundamentals, backend architecture, and problem-solving through DSA.
 
-**Databases & Backend Services**
+</td>
+</tr>
+</table>
 
-`PostgreSQL` `Firebase` `Supabase`
+## 🧩 What I Build
 
-**Tools & Platforms**
+<table>
+<tr>
+<td align="center" width="25%">📱<br/><b>Mobile</b><br/><sub>Android · Flutter</sub></td>
+<td align="center" width="25%">🌐<br/><b>Full-Stack</b><br/><sub>Web · APIs · Dashboards</sub></td>
+<td align="center" width="25%">⚙️<br/><b>Backend</b><br/><sub>Auth · Data · Workflows</sub></td>
+<td align="center" width="25%">🧠<br/><b>Problem Solving</b><br/><sub>DSA · Algorithms</sub></td>
+</tr>
+</table>
 
-`Git` `GitHub` `Android Studio` `VS Code`
+## 🛠️ Technology Stack
 
----
+### 💻 Languages
 
-## Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,js,php,dart&theme=dark" alt="Kotlin, Java, Python, JavaScript, PHP and Dart" />
+</p>
 
-### CraftLand
+### 📱 Mobile & UI
 
-Android marketplace for artisan products with inventory management, authentication, and role-based access for buyers and sellers.
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter&theme=dark" alt="Android Studio and Flutter" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-111827?style=flat-square&logo=jetpackcompose&logoColor=%234285F4" alt="Jetpack Compose" />
+</p>
 
-**Tech:** Kotlin · Jetpack Compose · Firebase
+### 🌐 Frontend
 
-[Repository](https://github.com/lucifers-0666/CraftLand-App-v1)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React and Tailwind CSS" />
+</p>
 
----
+### ⚙️ Backend
 
-### WealthOS
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,fastapi&theme=dark" alt="Node.js, Express, PHP, Python and FastAPI" />
+</p>
 
-Personal finance dashboard for Indian equities and international ETFs, with live prices, portfolio analytics, and AI-assisted insights.
+### 🗄️ Data & Backend Services
 
-**Tech:** JavaScript · Backend APIs · RAG workflows
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&theme=dark" alt="PostgreSQL, MySQL, Firebase and Supabase" />
+</p>
 
-[Repository](https://github.com/lucifers-0666/WealthOS)
+### 🔧 Tools
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vercel&theme=dark" alt="Git, GitHub, VS Code, Android Studio and Vercel" />
+</p>
 
-### ZenoPay
+## 🚀 Featured Projects
 
-Payment orchestration platform designed around provider integrations, webhook verification, and order tracking.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Node.js · Express · EJS · Payment APIs
+### 🛍️ CraftLand
 
-[Repository](https://github.com/lucifers-0666/ZenoPay-V1)
+Artisan marketplace Android application with authentication, inventory management, and role-based buyer/seller workflows.
 
----
+**Stack**  
+Kotlin · Jetpack Compose · Firebase
 
-### KHARCHA
+<a href="https://github.com/lucifers-0666/CraftLand-App-v1">Repository →</a>
 
-Expense tracker focused on category breakdowns, budget alerts, and offline-first data synchronization.
+</td>
+<td width="50%" valign="top">
 
-**Tech:** Flutter · Dart · Firebase
+### 💹 WealthOS
 
-Repository available in this account.
+Personal finance workspace for Indian equities and international ETFs with market data, portfolio analytics, and AI-assisted workflows.
 
----
+**Stack**  
+JavaScript · APIs · RAG workflows
 
-### AR Furniture Viewer
+<a href="https://github.com/lucifers-0666/WealthOS">Repository →</a>
 
-Android application that places true-to-scale 3D furniture in a room using AR plane detection and gesture controls.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Kotlin · ARCore · Android
+### 💳 ZenoPay
 
-Repository available in this account.
+Payment orchestration platform centered on provider integrations, webhook verification, and order tracking.
 
----
+**Stack**  
+Node.js · Express · EJS · Payment APIs
 
-### Destinova
+<a href="https://github.com/lucifers-0666/ZenoPay-V1">Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 KHARCHA
+
+Expense-tracking application focused on category breakdowns, budgeting, and offline-first synchronization.
+
+**Stack**  
+Flutter · Dart · Firebase
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛋️ AR Furniture Viewer
+
+Android AR experience for placing true-to-scale 3D furniture in a room with plane detection and gesture controls.
+
+**Stack**  
+Kotlin · ARCore · Android
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ Destinova
 
 Travel discovery website with curated destination content and a lightweight frontend experience.
 
-**Tech:** HTML · CSS · JavaScript
+**Stack**  
+HTML · CSS · JavaScript
 
-[Repository](https://github.com/lucifers-0666/Destinova)
+<a href="https://github.com/lucifers-0666/Destinova">Repository →</a>
 
----
+</td>
+</tr>
+</table>
 
-## Currently Building
+## 🎯 Engineering Focus
 
-- Production-oriented full-stack applications with cleaner architecture
-- Backend workflows around authentication, APIs, and database design
-- PostgreSQL and Supabase-backed products
-- Stronger fundamentals in data structures and algorithms
-- Better software documentation and project organization
+<table>
+<tr>
+<td>📱 <b>Mobile Engineering</b><br/><sub>Android · Kotlin · Flutter</sub></td>
+<td>🌐 <b>Application Development</b><br/><sub>Web · Full-Stack · Dashboards</sub></td>
+</tr>
+<tr>
+<td>🔐 <b>Backend Workflows</b><br/><sub>APIs · Authentication · Data flows</sub></td>
+<td>🗃️ <b>Data Systems</b><br/><sub>PostgreSQL · Firebase · Supabase</sub></td>
+</tr>
+<tr>
+<td>💳 <b>Product Integrations</b><br/><sub>Payments · Orders · External APIs</sub></td>
+<td>🧠 <b>Problem Solving</b><br/><sub>Data Structures · Algorithms</sub></td>
+</tr>
+</table>
 
----
+## 🔭 Currently Building
 
-## Coding Activity
+```text
+01  ▸  Production-oriented full-stack applications
+02  ▸  Cleaner backend architecture and API workflows
+03  ▸  PostgreSQL / Supabase backed products
+04  ▸  Stronger authentication and data design
+05  ▸  Data structures and algorithms
+06  ▸  Better software documentation and project organization
+```
+
+## 📊 Coding Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucifers-0666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9" alt="GitHub statistics for lucifers-0666" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifers-0666&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Top languages for lucifers-0666" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucifers-0666&show_icons=true&hide_border=true&bg_color=0b1020&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics for lucifers-0666" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifers-0666&layout=compact&hide_border=true&bg_color=0b1020&title_color=a78bfa&text_color=c9d1d9&langs_count=6" alt="Top languages for lucifers-0666" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifers-0666&theme=tokyonight&hide_border=true&background=0b1020" alt="GitHub contribution streak for lucifers-0666" />
+
 </div>
+
+## 🧠 LeetCode
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucifers-0666&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub contribution streak for lucifers-0666" />
+
+<img src="https://leetcard.jacoblin.cool/24rSzptybG?theme=dark&font=Karma" alt="LeetCode statistics for 24rSzptybG" />
+
 </div>
 
----
-
-## LeetCode
+## 🧭 Engineering Principle
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/24rSzptybG?theme=dark&font=Karma" alt="LeetCode statistics for 24rSzptybG" />
+
+> **Make it work. Make it right. Make it fast.**
+
 </div>
 
----
+## 🤝 Connect
 
-## Principle
+<div align="center">
 
-> Make it work, make it right, make it fast.
+<a href="https://github.com/lucifers-0666"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/24rSzptybG"><img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-111827?style=for-the-badge&logo=leetcode&logoColor=%23FFA116" alt="LeetCode" /></a>
+<a href="https://github.com/lucifers-0666?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore%20Projects-111827?style=for-the-badge&logo=github&logoColor=%2388b4ff" alt="Repositories" /></a>
 
----
+<br/><br/>
 
-## Connect
+*Building software. Learning continuously. Shipping with intent.*
 
-- GitHub: [github.com/lucifers-0666](https://github.com/lucifers-0666)
-- LeetCode: [leetcode.com/24rSzptybG](https://leetcode.com/24rSzptybG)
+</div>
 
-Open to learning, collaboration, and software development opportunities.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:312e81,100:0b1020" alt="Profile footer" />
