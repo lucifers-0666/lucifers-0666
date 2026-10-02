@@ -164,16 +164,13 @@ A structured learning repository covering JavaScript concepts and code examples.
 
 ## GitHub activity
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucifers-0666&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Live GitHub statistics including commits and contributions" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifers-0666&hide_border=true&background=0d1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF" alt="Live GitHub contribution streak including current and longest streak" />
-</div>
+My activity is tracked directly by GitHub. The contribution graph shown below this README is the authoritative live view of my daily work, total contributions, and contribution consistency.
 
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifers-0666&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Most-used programming languages across public repositories" />
-</div>
+- [View my live contribution history](https://github.com/lucifers-0666)
+- [Browse my latest repositories](https://github.com/lucifers-0666?tab=repositories)
+- [Follow my coding practice on LeetCode](https://leetcode.com/24rSzptybG)
 
-> The activity cards update from GitHub data and display live total commits/contributions, current streak, longest streak, and language usage. GitHub’s contribution graph below this README remains the most complete view of daily activity.
+> Third-party commit and streak widgets were removed because they can fail, cache stale results, or exclude private activity. GitHub’s native contribution graph is more reliable for this profile.
 
 ---
 
